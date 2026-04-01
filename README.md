@@ -1,7 +1,7 @@
 # Hi there, I'm Afonso! 👋 🚀
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TEU_USER&show_icons=true&theme=tokyonight&hide_border=true" alt="Afonso's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AfonsoQueirozitsme&show_icons=true&theme=tokyonight&hide_border=true" alt="Afonso's Stats" />
 </p>
 
 ### ⚡ "How the fuck?" (A bit about me)
