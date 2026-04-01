@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AfonsoQueirozitsme&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
 
-### ⚡ "How the fuck?" (A bit about me)
+### ⚡ "How the hell?" (A bit about me)
 A developer who grew up in the **Esports** trenches. I don't just write code; I architect systems and lead teams. Currently balancing high-stakes projects with a "never stop learning" mindset.
 
 - 🛠 **Current Focus:** Lead Full Stack Developer @ **INNER Studios** (Project InnerCircle).
