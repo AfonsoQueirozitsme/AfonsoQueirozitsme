@@ -32,7 +32,7 @@ A developer who grew up in the **Esports** trenches. I don't just write code; I 
 | :--- | :--- | :--- |
 | **Pixel Space Shooter** | Modern Bullet Hell arcade game with procedural art. | React, TS, Canvas |
 | **AI Investments** | Real-time AI data sync for ACM Investments. | Python, NextJS |
-
+| **OxMySQL-SP** | Supabase version of the well know script OXMYSQL | JavaScript, SQL |
 ---
 
 ### 📫 Connect with me
