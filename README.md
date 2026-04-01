@@ -30,7 +30,8 @@ A developer who grew up in the **Esports** trenches. I don't just write code; I 
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| **AI Investments** | Real-time AI data sync for ACM Investments | Python, NextJS |
+| **Pixel Space Shooter** | Modern Bullet Hell arcade game with procedural art. | React, TS, Canvas |
+| **AI Investments** | Real-time AI data sync for ACM Investments. | Python, NextJS |
 
 ---
 
