@@ -5,7 +5,7 @@
 </p>
 
 ### ⚡ "How the hell?" (A bit about me)
-A developer who grew up in the **Esports** trenches. I don't just write code; I architect systems and lead teams. Currently balancing high-stakes projects with a "never stop learning" mindset.
+A developer who grew up in the **Esports** trenches. Yes, I write code; But I also architect systems and lead teams (what I am REALLYYYY into). Currently balancing high-stakes projects with a "never stop learning" mindset.
 
 - 🛠 **Current Focus:** Lead Full Stack Developer @ **INNER Studios** (Project InnerCircle).
 - 🎮 **Past Life:** Tech Lead @ **FTW Esports**, managing a team of **23 devs**.
